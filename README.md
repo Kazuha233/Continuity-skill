@@ -1,6 +1,7 @@
 # AgentContinuitySkill -- Stop AI Agent Drift, Session Amnesia & Ghost Continuity
 
 > **Your AI agent forgets, drifts off-topic, and hallucinates about past actions. This fixes that.**
+> 
 > **你的 Agent 会漂移、会失忆、会一本正经地胡说。这个 skill 修的就是这个。**
 
 [![License: PolyForm-Noncommercial-1.0.0](https://img.shields.io/badge/License-PolyForm--Noncommercial-blue.svg)](LICENSE)
