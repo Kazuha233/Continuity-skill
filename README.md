@@ -4,7 +4,7 @@
 > **你的 Agent 会漂移、会失忆、会一本正经地胡说。这个 skill 修的就是这个。**
 
 [![License: PolyForm-Noncommercial-1.0.0](https://img.shields.io/badge/License-PolyForm--Noncommercial-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.1.0-green.svg)](skill/continuity-kit.skill.md)
+[![Version](https://img.shields.io/badge/version-1.1.0-green.svg)](skill/SKILL.md)
 [![Upstream](https://img.shields.io/badge/upstream-Qianhui/continuity--kit-lightgrey)](https://github.com/phamhien4278n-hub/continuity-kit)
 
 ---
@@ -108,7 +108,7 @@ User:  可以
 **完成！/ Done!**
 
 ```
-  ✔  创建 D:\ProgramData\agent-continuity-text(codex-test)/
+  ✔  创建 D:\ProgramData\agent-continuity-text-test/
   ✔  创建 snapshots/
   ✔  初始化 relay.yaml
 ```
@@ -162,12 +162,12 @@ All 10 issues fixed. Principle: **fix what's broken, add nothing extra.**
 
 ```bash
 # Hermes Agent
-hermes skills install https://raw.githubusercontent.com/Kazuha233/Continuity-skill/master/skill/continuity-kit.skill.md
+hermes skills install https://raw.githubusercontent.com/Kazuha233/Continuity-skill/master/skill/SKILL.md
 ```
 
 **手动安装 / Manual (Any Agent):**
 
-Copy `skill/continuity-kit.skill.md` to your agent's skills directory:
+Copy `skill/SKILL.md` to your agent's skills directory:
 
 | Agent | Path |
 |-------|------|
@@ -191,7 +191,7 @@ continuity-skill/
 ├── PRIVACY.md                          <- 数据处理说明 / Data handling & privacy
 ├── .gitignore                          <- 过滤敏感文件 / Filters sensitive files
 ├── skill/
-│   └── continuity-kit.skill.md         <- 核心 skill（装这个 / Install this）
+│   └── SKILL.md         <- 核心 skill（装这个 / Install this）
 ├── config-example.yaml                 <- 配置模板 / Config template
 ├── docs/
 │   └── protocol-spec.md                <- 协议规范 / Protocol spec
