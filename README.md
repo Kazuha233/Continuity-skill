@@ -194,10 +194,12 @@ continuity-skill/
 │   └── SKILL.md         <- 核心 skill（装这个 / Install this）
 ├── config-example.yaml                 <- 配置模板 / Config template
 ├── docs/
-│   └── protocol-spec.md                <- 协议规范 / Protocol spec
+│   ├── protocol-spec.md                <- 协议规范 / Protocol spec
+│   └── hermes-guard-integration.md       <- Guard 组合方案 / Pairing guide
 └── examples/
     ├── heartbeat-example.md            <- 心跳示例 / Heartbeat example
     └── hermes-dotfile-template.md      <- .hermes.md 强化模板 / Dual-layer enforcement
+```
 
 ## 推荐组合 / Recommended Pairing
 
@@ -208,7 +210,6 @@ continuity-skill/
 | 防漂移 + 防失忆 + 防幽灵 | | 防吹牛 + 防编造 + 防空头承诺 |
 
 详见 [docs/hermes-guard-integration.md](docs/hermes-guard-integration.md) 喵～
-```
 
 ---
 
