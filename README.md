@@ -162,7 +162,7 @@ All 10 issues fixed. Principle: **fix what's broken, add nothing extra.**
 
 ```bash
 # Hermes Agent
-hermes skills install https://raw.githubusercontent.com/Kazuha233/Continuity-skill/main/skill/continuity-kit.skill.md
+hermes skills install https://raw.githubusercontent.com/Kazuha233/Continuity-skill/master/skill/continuity-kit.skill.md
 ```
 
 **手动安装 / Manual (Any Agent):**
