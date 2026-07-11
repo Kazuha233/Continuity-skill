@@ -185,7 +185,7 @@ After install, the first run walks you through the 3-step conversational setup.
 ## 仓库结构 / Repository Structure
 
 ```
-continuity-kit/
+continuity-skill/
 ├── README.md                           <- 就是这页 / You are here
 ├── LICENSE                             <- PolyForm Noncommercial 1.0.0
 ├── PRIVACY.md                          <- 数据处理说明 / Data handling & privacy
