@@ -1,4 +1,4 @@
-# ContinuityKit -- Stop AI Agent Drift, Session Amnesia & Ghost Continuity
+# AgentContinuitySkill -- Stop AI Agent Drift, Session Amnesia & Ghost Continuity
 
 > **Your AI agent forgets, drifts off-topic, and hallucinates about past actions. This fixes that.**
 > **你的 Agent 会漂移、会失忆、会一本正经地胡说。这个 skill 修的就是这个。**
@@ -162,7 +162,7 @@ All 10 issues fixed. Principle: **fix what's broken, add nothing extra.**
 
 ```bash
 # Hermes Agent
-hermes skills install https://raw.githubusercontent.com/Kazuha233/continuity-kit/main/skill/continuity-kit.skill.md
+hermes skills install https://raw.githubusercontent.com/Kazuha233/Continuity-skill/main/skill/continuity-kit.skill.md
 ```
 
 **手动安装 / Manual (Any Agent):**
