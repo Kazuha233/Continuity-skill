@@ -171,10 +171,10 @@ Copy `skill/continuity-kit.skill.md` to your agent's skills directory:
 
 | Agent | Path |
 |-------|------|
-| Hermes | `~/.hermes/skills/continuity-kit/SKILL.md` |
-| Claude Code | `./.claude/skills/continuity-kit/SKILL.md` |
-| Codex | `./.agents/skills/continuity-kit/SKILL.md` |
-| Cursor | `./.cursor/skills/continuity-kit/SKILL.md` |
+| Hermes | `~/.hermes/skills/continuity-skill/SKILL.md` |
+| Claude Code | `./.claude/skills/continuity-skill/SKILL.md` |
+| Codex | `./.agents/skills/continuity-skill/SKILL.md` |
+| Cursor | `./.cursor/skills/continuity-skill/SKILL.md` |
 
 安装后首次使用会自动触发对话式上手指南。
 
