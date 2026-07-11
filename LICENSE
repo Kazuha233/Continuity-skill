@@ -1,0 +1,38 @@
+# License
+
+Copyright (c) 2026 Qianhui (original ContinuityKit)
+Copyright (c) 2026 ContinuityKit Contributors (Hermes skill adaptation)
+
+This project is a **derivative work** of [phamhien4278n-hub/continuity-kit](https://github.com/phamhien4278n-hub/continuity-kit) and is made available under the **PolyForm Noncommercial License 1.0.0**.
+
+## Official License Text
+
+https://polyformproject.org/licenses/noncommercial/1.0.0/
+
+SPDX identifier: `PolyForm-Noncommercial-1.0.0`
+
+## Commercial Use Requires a Paid License
+
+You may not use this project for commercial purposes under the noncommercial license.
+
+The following are examples of uses that generally require a commercial license:
+
+- Use by or for a for-profit company
+- Use by a venture-backed or investor-backed company
+- Use in a revenue-generating product or service
+- Use in a paid consulting deliverable
+- Use in an internal business workflow (teams of 5+ require a license)
+- Use to operate a hosted agent, SaaS product, or customer-facing automation
+- Use in research or product development by a for-profit entity
+
+**Personal, non-commercial use is always free.** Individuals and teams of up to 5 people using this for non-commercial purposes do not need a license.
+
+To obtain a commercial license, contact the upstream author (Qianhui) via the original repository.
+
+## Derivative Work Notice
+
+This Hermes skill adaptation is a derivative of the ContinuityKit protocol originally authored by Qianhui. The protocol structure, heartbeat/snapshot/RELAY schemas, and core concepts originate from the upstream project.
+
+## Not Legal Advice
+
+This notice is a practical repository notice, not legal advice. Consult qualified counsel before publishing or selling licenses.

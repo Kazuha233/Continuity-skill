@@ -1,0 +1,13 @@
+# ContinuityKit Configuration Template
+# Copy this file to config.yaml and fill in your values.
+# WARNING: Never commit config.yaml to version control!
+
+# Storage directory for continuity data (snapshots, relay, logs)
+# Default: ~/agent-continuity-text/
+# Customize if you prefer a different location:
+# continuity_kit_home: "/path/to/your/data"
+
+# Heartbeat interval (number of turns between self-checks)
+# Default: 5
+# Set to 0 to disable heartbeats entirely
+# heartbeat_interval: 5
