@@ -19,6 +19,17 @@ test_cases:
     expected: "Emit heartbeat block in next response"
   - scenario: "User says 'stop the protocol'"
     expected: "Acknowledge deactivation, do not write further snapshots"
+triggers:
+  - "restore session"
+  - "resume session"
+  - "恢复会话"
+  - "续写"
+  - "continuity"
+  - "relay"
+  - "snapshot"
+  - "heartbeat"
+  - "心跳"
+  - "快照"
 ---
 
 # ContinuityKit Protocol
@@ -239,9 +250,3 @@ Before completing a session, check:
 ## License
 
 **PolyForm Noncommercial 1.0.0** — Free for personal, non-commercial use. Commercial use requires a paid license. Derivative of [ContinuityKit](https://github.com/phamhien4278n-hub/continuity-kit) v0.1 by Qianhui.
-
-## Reference Files
-
-- `references/protocol-reference.md` — Quick-reference block formats and lifecycle
-- `references/privacy.md` — Data handling guidelines and publishing tips
-- `references/skill-review-checklist.md` — 9-point audit methodology for skill quality
