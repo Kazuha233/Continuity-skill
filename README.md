@@ -209,7 +209,7 @@ continuity-skill/
 |:---:|:---:|:---:|
 | 防漂移 + 防失忆 + 防幽灵 | | 防吹牛 + 防编造 + 防空头承诺 |
 
-详见 [docs/hermes-guard-integration.md](docs/hermes-guard-integration.md) 喵～
+详见 [docs/hermes-guard-integration.md](docs/hermes-guard-integration.md) 
 
 ---
 
